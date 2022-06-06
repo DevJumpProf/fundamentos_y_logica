@@ -9,7 +9,11 @@
 * Operadores lógicos
 * Estructuras de control
 * if/else (si/no)
+* Ejercicio: super_Adivina
 * switch (segun)
+* Ejercicio: libro-pelicula o juego
+* while 
+* Ejercicio: Adivinar el Numero Aleatorio
 
 ## Operadores
 Existen diferentes tipos de operadores
@@ -140,7 +144,7 @@ Diagrama:
 
 -------------------------------------------------
 
-Ejercicio:
+## Ejercicio:
 
 Realizar un programa que llamado super_Adivina:
 
