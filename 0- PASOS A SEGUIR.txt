@@ -1,5 +1,4 @@
 Leer los siguientes archivos. 
-Abrir con Visual Studio Code (click derecho sobre el archivo : "open preview")
 1- Programación (Fundamentos y Logica) Parte 1
 2- Programación (Fundamentos y Logica) Parte 2
 3- Programación (Fundamentos y Logica) Parte 3
@@ -13,3 +12,5 @@ EJERCICIO VARIABLES
 EJERCICIO DETECCIÓN DE ERRORES 1
 
 guardar los ejercicios en la carpeta EJERCICIOS con el siguiente nombre: (nombreejercicio_nombreestudiante)
+
+Ante cualquier consulta usar el FORO
