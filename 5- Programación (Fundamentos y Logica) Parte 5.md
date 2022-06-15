@@ -255,23 +255,44 @@ FinAlgoritmo
 ----------------------------------------------------------
 
 Ejercicio 
-El ejercicio tendrá el nombre de aprender_while.
-pasos:
-A) genero un número aleatorio lo guardo en la variable "nAzar"
-B) creo la variable "intentos" y le paso como dato el numero 3 
-C) Escribo en pantalla: "adivina número del 1 al 10, tienes: " , intentos (aca hago referencia a la variable) , " intentos"
-D) Pido un numero
-F)el numero lo guardo en la variable nUser
-G) 
-  1) si el número(nAzar) no es igual entrará al while 
-  2) si el numero (nAzar) es mayor : Mostrar "muy bajo"
-  3) si el numero (nAzar) es menor : Mostrar "muy alto"
 
-H) Restamos 1 intento
-I) Mostrar "Te quedan... " , intentos (aca hago referencia a la variable) , " intentos!"
-J) capuramos número elegido por user: Leer nUser antes de finalizar el while
-K) Por fuera del while:
-Si.- el numero nAzar es igual al nUser  Mostrar "Adivinaste!!, el numero era" , nAzar
+El ejercicio tendrá el nombre de aprender_while. pasos: 
+
+A) genero un número aleatorio lo guardo en la variable "nAzar" 
+
+B) creo la variable "intentos" y le paso como dato el numero 3
+
+C) Escribo en pantalla: "adivina número del 1 al 10, tienes: " , intentos (aca hago referencia a la variable) , " intentos" 
+
+D) Pido un numero 
+
+E)el numero lo guardo en la variable nUser 
+
+
+
+G)
+
+si el número(nAzar) no es igual entrará al while
+si el numero (nAzar) es mayor : Mostrar "muy bajo"
+si el numero (nAzar) es menor : Mostrar "muy alto"
+
+
+H) Restamos 1 intento 
+
+
+
+I) Mostrar "Te quedan... " , intentos (aca hago referencia a la variable) , " intentos!" 
+
+
+
+J) capturamos número elegido por user: Leer nUser antes de finalizar el while
+
+
+
+ K) Por fuera del while: Si.- el numero nAzar es igual al nUser Mostrar "Adivinaste!!, el numero era" , nAzar 
+
+
+
 L) SiNo.-"Perdiste!! se te acabaron los intentos! el numero era: " nAzar
 
 Diagrama: 
