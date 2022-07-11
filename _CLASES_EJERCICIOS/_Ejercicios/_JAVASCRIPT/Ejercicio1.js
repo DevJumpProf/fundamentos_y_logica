@@ -17,3 +17,18 @@ const nuevaMultiplicacion = null * 4 === 40 ;
 
 // Resuelve el siguiente problema matemático:
 const nuevoModulo = 21 % 5 === null;
+
+
+
+// Realizar un programa que:
+/*  pida un nombre  : Juan
+ pida la edad  : 5
+ 
+ */ 
+
+/* mostrar las siguientes alertas
+
+alert1 : Juan tiene 4 letras 
+alert2 :la suma de caracteres de Juan + tu edad es 9
+*/
+
