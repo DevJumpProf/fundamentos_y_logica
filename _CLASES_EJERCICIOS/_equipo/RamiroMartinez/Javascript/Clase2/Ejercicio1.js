@@ -10,10 +10,18 @@ const nuevoNum = 3121;
 const nuevoBool = false;
 
 // Resuelve el siguiente problema matemático:
-const nuevaResta = 10 - null === 5;
+const nuevaResta = 10 - 5 === 5;
 
 // Resuelve el siguiente problema matemático:
-const nuevaMultiplicacion = null * 4 === 40 ;
+const nuevaMultiplicacion = 10 * 4 === 40 ;
 
 // Resuelve el siguiente problema matemático:
-const nuevoModulo = 21 % 5 === null;
+const nuevoModulo = 21 % 5 === 1;
+
+
+
+let nombre = prompt("Escribe tu nombre");
+let edad = Number(prompt("Escribe tu edad"));
+let longitud = nombre.length
+
+alert("Tu nombre es " + nombre + " y tiene " + longitud +" caracteres" + " y tienes " + edad + " años")
