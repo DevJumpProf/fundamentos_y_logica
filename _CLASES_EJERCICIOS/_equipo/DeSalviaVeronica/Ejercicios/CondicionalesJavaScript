@@ -1,0 +1,9 @@
+let nombre = prompt("Decime tu nombre");
+let edad = Number(prompt("Decime tu edad"));
+if(edad>18){
+    alert(`${nombre} como tu edad es mayor a 18 años, podes tomar algo. ¿Qué preferis?`);
+    let bebida = prompt("¿Qué querés tomar?");
+    alert(`Bueno, ahora pido dos ${bebida} :D`);
+}else{
+    alert(`${nombre} como sos menor de edad, solo te puedo invitar coca. Dos coquitas :D`);
+}
