@@ -83,8 +83,8 @@ let esDistinto = !true  //false
  ********* SEGUNDO EJERCICIO *********
 
 // Resuelve el siguiente problema matemático:
-const nuevaMultiplicacion = null * 4 === 40 ;
+const nuevaMultiplicacion = 10 * 4 === 40 ;
 
 // Resuelve el siguiente problema matemático:
-const nuevoModulo = 21 % 5 === null;
+const nuevoModulo = 21 % 5 === 1;
 ***************************************** */
