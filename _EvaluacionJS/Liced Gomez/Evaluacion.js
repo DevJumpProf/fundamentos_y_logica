@@ -1,19 +1,26 @@
 // reemplaza `null` por la respuesta
 
 // Crea una variable "string", puede contener lo que quieras:
-const nuevaString = null;
-
+let nombre = "Liced";
+alert("Usted ingreso su nombre: " + nombre)
 // Crea una variable numérica, puede ser cualquier número:
-const nuevoNum = null;
+let nuevoNum = 26;
 
 // Crea una variable booleana:
-const nuevoBool = null;
+let nuevoBool = true;
 
 // Resuelve el siguiente problema matemático:
-const nuevaResta = 10 - null === 5;
+let x = 10; 
+let y = 5;
+nuevaResta = x - y 
+alert("El resultado de restar y - y es igual a: " + nuevaResta)
 
 // Resuelve el siguiente problema matemático:
-const nuevaMultiplicacion = null * 4 === 40 ;
+let numbera = 10; 
+let numberb = 5;
+resultado = numbera * numberb
+alert("El resultado de restar a - b es igual a: " + resultado)
+
 
 // Resuelve el siguiente problema matemático:
 const nuevoModulo = 21 % 5 === null;
